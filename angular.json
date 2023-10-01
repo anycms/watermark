@@ -141,6 +141,5 @@
         }
       }
     }
-  },
-  "defaultProject": "@anycms/watermark-demo"
+  }
 }
