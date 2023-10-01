@@ -1,13 +1,13 @@
 # Angular 版本水印指令
 
 ## 安装
-npm install @anycms/watermark --save  或 yarn add @anycms/watermark
+npm install @anycms/watermarker --save  或 yarn add @anycms/watermarker
 
 ## 使用
 
 ```javascript
 // 业务模块
-import { WaterMarkerModule } from '@anycms/watermark';
+import { WaterMarkerModule } from '@anycms/watermarker';
 
 
 @NgModule({
@@ -28,7 +28,7 @@ export class AppModule { }
 
 //业务组件
 import { Component } from '@angular/core';
-import { WaterMarkerOptionModel } from '@anycms/watermark';
+import { WaterMarkerOptionModel } from '@anycms/watermarker';
 
 @Component({
   selector: 'app-root',
