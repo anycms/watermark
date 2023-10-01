@@ -5,7 +5,7 @@
 `cc-water-marker` 链接:https://github.com/myopenresources/cc-water-marker-demo
 
 ## 安装
-npm install cc-water-marker --save  或 yarn add  cc-water-marker
+npm install @anycms/watermark --save  或 yarn add @anycms/watermark
 
 ## 使用
 

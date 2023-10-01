@@ -8,5 +8,9 @@
     "@angular/common": "^13.0.0",
     "@angular/core": "^13.0.0"
   },
-  "private":false
+  "private":false,
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
 }
